@@ -1,0 +1,68 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.App{
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 20px 10px 20px;
+ 
+  height: fit-content;
+
+}
+span{
+  margin: 15px;
+  font-size: 20px;
+  font-weight: 200px;
+}
+button{
+  padding: 4px 20px 4px 20px;
+}
+h1{
+  font-size: 100px;
+  font-weight: 100px;
+}
+p{
+  margin: 10px 0px 20px 0px;
+}
+.First{
+  padding: 50px;
+  position: relative;
+  height: fit-content;
+  display: inline-block;
+  width: 50%;
+}
+button{
+  margin: 10px;
+  color: white;
+  background-color: red;
+  outline: none;
+}
+h5{
+  right: 100px;
+}
+.content{
+  
+   display:flex;
+  
+  
+}
+.second{
+  
+  
+  width: 50%;
+}
+.third{
+  padding: 10px;
+  width:150px;
+}
+div h5,img{
+  margin: 3px;
+}
